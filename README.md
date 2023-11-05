@@ -1,1 +1,1 @@
-# HRC-Account-receivables-prediction
+Account Receivables predictions notebookfor HighRadius project
